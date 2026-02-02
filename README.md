@@ -163,4 +163,5 @@ This system follows professional emergency management standards:
 - 🇪🇺 **Europe**: 112
 - 🇺🇸 **US/Canada**: 911
 
+Figma:- https://www.figma.com/design/0du3hBR8zhH6titGlkSefa/Crisis-Response-Chatbot----Desh-Deepak-?node-id=1-183&t=20FDsJMB7AhXJhZl-1
 Huggingface:- https://huggingface.co/spaces/ddeepak752/crisis_response_chatbbot
